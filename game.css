@@ -1,6 +1,9 @@
 #body_background{
 	background-image: url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_678177130_408956.jpg");
 }
+html, body{
+	zoom: 150%;
+	scroll-behavior: smooth;
 body
 {
 	background:black;
